@@ -298,3 +298,4 @@ if uploaded_file:
             st.write(f"• Add **{skill}** to strengthen your resume")
     else:
         st.success("Your resume already contains strong technical skills!")
+        
